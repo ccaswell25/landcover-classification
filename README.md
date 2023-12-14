@@ -1,11 +1,11 @@
 # Landcover Classification for Southern Santa Barbara County
-A repository to utilize Landsat data for Santa Barbara County in order to train and apply a decision tree classifier for landcover types.
+A repository to run an analysis utilizing Landsat data for Santa Barbara County in order to train and apply a decision tree classifier for landcover types.
 
 ## Purpose
 
-Marine aquaculture has the potential to play an important role in the global food supply as a more sustainable protein option than land-based meat production.1 Gentry et al. mapped the potential for marine aquaculture globally based on multiple constraints, including ship traffic, dissolved oxygen, bottom depth .2
+Monitoring the distribution and change in land cover types can help us understand the impacts of phenomena like climate change, natural disasters, deforestation, and urbanization. Determining land cover types over large areas is a major application of remote sensing because we are able to distinguish different materials based on their spectral reflectance.
 
-This analysis will look at which Exclusive Economic Zones (EEZ) on the West Coast of the US are best suited to developing marine aquaculture. First analyzed for several species of oysters, and then includes a function to understand results for a chosen marine species.
+Classifying remotely sensed imagery into landcover classes enables us to understand the distribution and change in landcover types over large areas. 
 
 ## Structure
 
